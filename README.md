@@ -29,7 +29,7 @@ The app contains functionality to tweet back emoji translations to the most rece
 
 ## Technologies Used
 
-_Ruby, Sinatra, SQL, Postgres, JavaScript, MaterializeCSS, jQuery_
+_Ruby, Sinatra, SQL, Postgres, JavaScript, MaterializeCSS, JQuery_
 
 ### License
 
